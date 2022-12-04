@@ -6,4 +6,4 @@ published: true
 
 ---
 
-Study_xxqg
+dtxuexi://appclient/page/study_feeds?url=
