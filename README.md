@@ -1,3 +1,7 @@
+newbie：上传scheme.html和qrcodejs和CNAME(内容空白即可)
+Study_xxqg跳板配置
+          scheme: "https://rookiemz.github.io/scheme.html?"
+
 # The Hacker-Blog theme
 
 *Hacker-Blog is a minimalistic, responsive jekyll theme built for hackers. It is based on the [hacker theme](https://github.com/pages-themes/hacker) for project pages.*
