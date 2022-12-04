@@ -1,6 +1,4 @@
-newbie：上传scheme.html和qrcodejs和CNAME(内容空白即可)
-Study_xxqg跳板配置
-          scheme: "https://rookiemz.github.io/scheme.html?"
+newbie：上传scheme.html和qrcodejs和CNAME(内容空白即可),配置scheme: "https://rookiemz.github.io/scheme.html?"
 
 # The Hacker-Blog theme
 
